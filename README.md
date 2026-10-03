@@ -2,13 +2,19 @@
 
 > **Read-only archive of released versions of clarkwinkelmann/flarum-ext-first-post-approval.** Not for installation: use [Packagist](https://packagist.org/packages/clarkwinkelmann/flarum-ext-first-post-approval) or the [upstream repository](https://github.com/clarkwinkelmann/flarum-ext-first-post-approval).
 
-**0** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-first-post-approval/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.3`
+**7** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-first-post-approval/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.3`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2020-10-06 | `>=0.1.0-beta.13 <0.1.0-beta.14` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-first-post-approval/tree/archive/v0.1.0) |
+| `0.1.1` | 2020-10-06 | `>=0.1.0-beta.13 <0.1.0-beta.14` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-first-post-approval/tree/archive/v0.1.1) |
+| `0.1.2` | 2020-10-20 | `>=0.1.0-beta.14 <0.1.0-beta.15` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-first-post-approval/tree/archive/v0.1.2) |
+| `0.1.3` | 2020-12-21 | `>=0.1.0-beta.15 <0.1.0-beta.16` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-first-post-approval/tree/archive/v0.1.3) |
+| `0.1.4` | 2021-03-18 | `>=0.1.0-beta.15 <0.1.0-beta.17` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-first-post-approval/tree/archive/v0.1.4) |
+| `1.0.0` | 2021-05-28 | `^1.0` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-first-post-approval/tree/archive/v1.0.0) |
+| `1.0.1` | 2022-08-03 | `^1.3` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-first-post-approval/tree/archive/v1.0.1) |
 
 Catalog entry: [packages/clarkwinkelmann-flarum-ext-first-post-approval.json](https://github.com/flarchive/archive-index/blob/main/packages/clarkwinkelmann-flarum-ext-first-post-approval.json)
 
